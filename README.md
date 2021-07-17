@@ -27,7 +27,8 @@
 - HTML5
 - CSS3
 - Bootstrap4
-- Js
+- JS
+- Localstorage
 - JSON
 - Real Time Validation
 - Real Time Search
