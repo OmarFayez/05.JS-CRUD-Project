@@ -12,7 +12,7 @@
 
 ### About
 
--it's a CRUD system for adding , editing and deleting products . all products informations are stored in the LocalStorage of the browser to ensure data is saved when you close your browser and open it again. Real Time Validation And Search has been used in this store.
+-It's a CRUD system for adding , editing and deleting products . all products informations are stored in the LocalStorage of the browser to ensure data is saved when you close your browser and open it again. Real Time Validation And Search has been used in this store.
 
 ### Screenshot
 
